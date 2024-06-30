@@ -27,7 +27,7 @@ public class FibonacciSeries {
         int firstNumber = 0, secondNumber = 1;
         
         // Loop to print the Fibonacci series
-        for (int i = 1; i < n ; i++) {
+        for (int i = 0; i < n ; i++) {
             // Printing the current number
             System.out.print(firstNumber + " ");
             
